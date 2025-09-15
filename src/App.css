@@ -1,8 +1,10 @@
+/* MAIN CSS  */
+
 .MainContainer {
     background-color: #c7f0c7;
     width: 100vw;
     min-height: 100vh;
-    border: 10px solid #238000;
+    border: 5px solid #238000;
     
 }
 
