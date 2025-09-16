@@ -1,3 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
 .mainContainer {
     border: 5px solid #238000;
     background-color: #c7f0c7;
@@ -16,7 +24,7 @@
     display: flex;
     flex: 1; 
     gap: 20px;
-    padding: 20px;
+    padding: 15px;
 }
 
 .Box1,
@@ -28,7 +36,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 10px;
+    padding: 4px;
 }
 
 .Box2 {
