@@ -36,11 +36,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 4px;
 }
 
 .Box2 {
     display: flex;
+    padding: 10px;
 }
 
 .InnerBox1,
@@ -51,7 +51,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 60px; 
+    padding: 20px;
+    padding-top: 90px;
 }
 
 
